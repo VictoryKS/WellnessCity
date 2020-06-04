@@ -1,0 +1,31 @@
+.leaflet-control-layers-toggle {
+    width: 30px !important;
+    height: 30px !important;
+}
+.leaflet-bar-part-single {
+    width: 30px !important;
+}
+.leaflet-bar a {
+    width: 30px !important;
+}
+.card-body {
+    padding: 0 !important;
+}
+#details {
+    position: absolute;
+    right: 0px;
+    top: 60px;
+    width: 500px;
+    height: 100%; 
+    z-index: 10000;
+}
+.close {
+    position: absolute;
+    top: 10px; 
+    right: 15px;
+}
+.leaflet-control-layers-overlays span {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 14px;
+}
